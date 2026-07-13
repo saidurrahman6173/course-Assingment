@@ -161,7 +161,7 @@ hr{
     padding: 60px;
     background-color: #f5f5f5;
     text-align: center;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 
 .testimonials h2{
@@ -186,4 +186,16 @@ hr{
 .testimonial-box h4{
     margin-top: 15px;
     color: #0066ff;
+}
+footer{
+    background-color: #0d1b2a;
+    height: 150px;
+}
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    max-width: 1280px;
+    margin: 0 auto;
+    color: white;
 }
