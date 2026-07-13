@@ -199,3 +199,15 @@ footer{
     margin: 0 auto;
     color: white;
 }
+.icon{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.the-end{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    padding-top: 20px;
+    color: #555;
+}
